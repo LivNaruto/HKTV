@@ -9,6 +9,8 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1,财经体育资讯台
 https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1,Viu  TV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1,Viu Six TV
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1,港台电视31
@@ -25,19 +27,9 @@ https://cdn.hklive.tv/xxxx/76/index.m3u8
 https://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1,HOY TV 资讯台
 https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1,Viu  TV
-https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1,有线财经资讯台
-https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
+https://cdn.hklive.tv/xxxx/108/index.m3u8
 #EXTINF:-1,有线新闻台
 https://cdn.hklive.tv/xxxx/109/index.m3u8
 #EXTINF:-1,有线直播新闻台
-https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8
-#EXTINF:-1,NOW直播台
-https://ewcdnsite08.nowe.com/session/09-f4fb33825dcfddf8caa25aa8b972b/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8?token=003d1aa3ee2a7b5a2268c22a239ad5cd_1670684590
-#EXTINF:-1,NOW新闻台
-https://ewcdnsite01.nowe.com/session/09-f163e197ad679c4e90848673c529b/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=4ab4f0f5d78f0af9cc35f36b2c24e14b_1670684536
-#EXTINF:-1,NOW财经台
-https://ewcdnsite08.nowe.com/session/09-d767e7bb8655c5e88be6fc2dc2a3a/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=f1a1f97d1cde738ad1fee2a2dd1e3904_1670684566
-#EXTINF:-1,NOW体育台
-https://cdn.hklive.tv/xxxx/630/index.m3u8
+https://cdn.hklive.tv/xxxx/110/index.m3u8
